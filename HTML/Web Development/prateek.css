@@ -1,0 +1,43 @@
+#Name {
+    background-color: blue;
+}
+
+.bg-yellow {
+    background-color: blueviolet;
+}
+
+.red {
+    color: aqua;
+}
+
+/* div {
+    color: aqua;
+} */
+
+ul {
+    color: aqua;
+}
+
+table th {
+    color: aqua;
+}
+
+
+tr > td {
+    color: yellow;
+}
+
+* {
+    margin : 0;
+    padding : 0;
+}
+
+a:link {
+    background-color : red;
+}
+
+
+a:action {
+    background-color: aqua;
+}
+

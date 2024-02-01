@@ -1,0 +1,143 @@
+div {
+    size: 20cqmax;
+    width: auto;
+    padding: 0px;
+    justify-content: center;
+}
+
+#header>h1 {
+    text-align: center;
+    background-color: #fcbc2c;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    margin: 0px;
+    border: 0px;
+}
+
+/* .navigation_menu>ul>li {
+    margin: 50px;
+    display: inline;
+    color: #fcbc2c;
+    border: 2px solid #1c2424;
+} */
+/* 
+.navigation_menu {
+    border: 2px solid #1c2424;
+    margin: 0%;
+    padding: 20px;
+    background-color: #1c2424;
+    box-shadow: 5px 10px 10px 1px #fcbc2c;
+
+} */
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.side_bar_rumorscrypto {
+    margin: 50px;
+    padding: 20px;
+    background-color: #fcbc2c;
+    display: inline-block;
+    box-shadow: 5px 10px 5px 1px #fcbc2c;
+    border:  2px solid #1c2424;
+
+}
+
+.box {
+    Border: 2px solid #1c2424;
+    box-shadow: 5px 10px 5px 1px #fcbc2c;
+}
+
+/* .navigation_menu > ul > li {
+    display: flex;
+    list-style: none;
+    background-color: #1c2424;
+    padding: 0px;
+    margin: 0px; 
+} */
+
+.navigation_menu ul li{
+    display: inline-flex;
+    justify-content: center;
+    list-style: none;
+    padding: 25px;
+    margin: 3px; 
+    color : #fcbc2c;
+    position: relative;
+    left: 800px;
+    right: 0px;
+    text-align: center;
+}
+.navigation_menu {
+    background-color: #1c2424;
+}
+
+.paragraph_lorem {
+    width: 100vh;
+    height: 10vw;
+    justify-content: center;
+    padding: 10px;
+    border: 2px solid #1c2424;
+    overflow: hidden auto ;
+    position: relative;
+    left: 400px;
+    bottom: 220px;
+}
+
+/* .parent_box {
+    padding : 3px;
+    width: 133px ;
+    height: 80px;
+    margin: 3px; 
+    border: 3px solid #1c2424;
+} */
+
+
+
+.box_1 {
+    padding : 3px;
+    width: auto;
+    height: 80px;
+    margin: 3px; 
+    border: 3px solid #1c2424;
+    background-color: aqua;
+}
+
+.box_2 {
+    padding : 3px;
+    width: auto ;
+    height: 80px;
+    margin: 3px; 
+    border: 3px solid #1c2424;
+    background-color: #fcbc2c;
+}
+.box_3 {
+    padding : 3px;
+    width: auto ;
+    height: 80px;
+    margin: 3px; 
+    border: 3px solid #1c2424;
+    background-color: #71cd0f;
+}
+.box_4 {
+    padding : 3px;
+    width: auto ;
+    height: 80px;
+    margin: 3px; 
+    border: 3px solid #1c2424;
+    background-color: #ff7214;
+
+}
+.box_5 {
+    padding : 3px;
+    width: auto ;
+    height: 80px;
+    margin: 3px; 
+    border: 3px solid #1c2424;
+    background-color: #470bfd;
+    position: relative;
+    top: -500px;
+
+}
