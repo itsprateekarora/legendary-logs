@@ -2,7 +2,7 @@
     --color: #085c64;
     --background-color: #ffffff;
     --secondary-color: #fcbc2c;
-    --text-color:#000000; 
+    --text-color: #000000;
 }
 
 .radhe_header {
@@ -12,8 +12,9 @@
     padding-top: 75px;
     padding-bottom: 75px;
     text-align: center;
-    letter-spacing:  20px;
+    letter-spacing: 20px;
 }
+
 .radhe_header>h1 {
     font-family: manrope;
 }
@@ -23,14 +24,15 @@
     padding: 0px;
 
 }
+
 .radhe_navigation_bar {
-    border:2px solid #fcbc2c;
+    border: 2px solid #fcbc2c;
     background-color: #1c2424;
 }
 
-.radhe_navigation_bar ul li { 
-    display:inline flex;
-    list-style: none;   
+.radhe_navigation_bar ul li {
+    display: inline flex;
+    list-style: none;
     text-align: center;
     justify-content: center;
     padding: 20px;
@@ -55,11 +57,16 @@
     border-radius: 50px;
 }
 
-.aisha_card_image{
+.aisha_card_image {
     border-radius: 51px;
 }
 
 .aisha_business_card:hover {
-        background-color: #45a049; /* Changing background color on hover */
-    }
-    
+    background-color: #45a049;
+    /* Changing background color on hover */
+}
+
+@media only screen and (min-width: 455p)
+body{
+    background-color : var:(--color);
+}

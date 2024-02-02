@@ -1,0 +1,52 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;500;700;800&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    }
+
+:root {
+    --color: #1c2424;
+    --secondary-color : #fcbc2c;
+    --primary-color : #ffffff;
+
+    }
+
+.bunny_header{
+    padding: 50px;
+    background-color:#1c2424;
+    text-align: center;
+    }
+
+h1 {
+    color: #ffffff;
+    display: inline;
+  }
+  
+
+  
+.bunny_navigation_bar {
+    background-color: #fcbc2c;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+.bunny_navigation_bar ul li {
+    
+}
+ul {
+    text-align: center;
+}
+ul li {
+    display:  inline;
+    padding: 50px;
+}
+
+.boxes {
+    background-color: #fedbdb;
+    border: 2px solid #fedbdb;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+  
