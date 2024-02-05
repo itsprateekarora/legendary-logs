@@ -1,0 +1,49 @@
+* {
+    margin : 0px;
+    padding: 0px;
+}
+
+.logo img{ 
+    width: 164px;
+}
+
+nav { 
+    display: flex;
+    justify-content:space-around;
+    font-family:  'Segoe UI';
+    align-items: center;
+    padding: 10px;
+}
+
+.right ul{
+    display: flex;
+    gap: 21px;
+    align-items: center;
+}
+
+.right ul li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.right ul li span{
+    padding : 0 9px;
+    align-items: center;
+
+}
+
+.first { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.first span {
+    font-size: 40px;
+}
+
+

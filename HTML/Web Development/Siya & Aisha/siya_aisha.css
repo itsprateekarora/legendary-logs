@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav { 
+    display: flex;
+    justify-content:space-around;
+    font-family:  'Segoe UI';
+    align-items: center;
+    box-shadow: 5px 15px 60px 1px black;
+    position: sticky;
+}
+
+.siya_aisha_logo ul{ 
+    height: 23px;
+    width: 40px;
+    align-items: center;
+
+}
+
+.siya_aisha_logo img {
+    width: 250px;
+}
+
+.right_siya_aisha ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.siya_aisha_logo ul{
+    display: flex;
+    gap: 21px;
+    align-items: center;
+    
+}
+
+.right_siya_aisha ul li span{
+    padding : 0 9px;
+    align-items: center;
+}
+
+.siya_aisha_logo{
+    display: flex;
+    align-items: center;
+}
+
+.siya_asiha .siya_asiha_svg_menu {
+    display: flex;
+    align-items: center;
+}
+
+header div{
+    display:flex;
+    align-items: center;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+ 
+.svg_Open_the_app .settings_siya_aisha .bell_siya_aisha {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.blue-button {
+    background-color: #8c3cfc;
+    border: #8c3cfc;
+    color: white;   
+    border-radius:  3px;
+    padding-top: 10px ;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    font-family:'Segoe UI';
+  }
+
